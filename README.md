@@ -28,7 +28,7 @@
 <h2>1. Bookstore Catalog</h2>
 <p><strong>Site:</strong> <a href="https://books.toscrape.com/index.html">books.toscrape.com</a><br>
 <strong>Tools:</strong> <code>requests</code> + <code>BeautifulSoup</code><br>
-<strong>File:</strong> <code>23L_XXXX_versionB_static_books.csv</code></p>
+<strong>File:</strong> <code>23L_2596_versionB_static_books.csv</code></p>
 
 <p>Scraped 4 categories — Travel, Mystery, Historical Fiction, Classics — including every book's product page.</p>
 
